@@ -1,4 +1,5 @@
 # 🧮 Calculadora Clássica
+![Imagem do site](Calculadora.png)
 
 Uma calculadora web simples e direta, construída com HTML, CSS e JavaScript, ideal para realizar cálculos básicos.
 
@@ -36,10 +37,4 @@ A calculadora pode realizar as seguintes operações básicas:
 3. Insira o segundo número no campo inferior.
 4. O resultado será exibido abaixo dos botões de operação.
 
-## 🚀 Próximos Passos (Sugestões)
 
-- Adicionar funcionalidades mais avançadas, como funções trigonométricas ou cálculo de porcentagem.
-- Implementar um design responsivo para melhor experiência em diferentes dispositivos.
-- Criar testes unitários para garantir a qualidade do código.
-
-## 😄 Em Breve!
